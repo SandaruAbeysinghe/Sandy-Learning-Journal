@@ -7,3 +7,5 @@ Day 01 (11/05/26) - Updating the personal blog using Wordpress. Revising for AWS
 Day 02 (12/05/26) - Doing online papers on AWS SAA from Stephane Marek (Udemy). Updating the blog
 
 Day 03 (13/05/26) - Engaging in Practical AI course material (Cardiff Uni). Changing the blog template colours for better readability.
+
+Day 04 (14/05/26) - Optimising blogsite and starting a new blog on "Apple and Accessibility"
