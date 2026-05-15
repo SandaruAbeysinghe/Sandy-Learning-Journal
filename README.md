@@ -10,4 +10,4 @@ Day 03 (13/05/26) - Engaging in Practical AI course material (Cardiff Uni). Chan
 
 Day 04 (14/05/26) - Optimising blogsite and starting a new blog on "Apple and Accessibility"
 
-day 05 (15/05/26) - Revising for AWS SAA. Doing University course module research. Completing AI course material.
+Day 05 (15/05/26) - Revising for AWS SAA. Doing University course module research. Completing AI course material.
