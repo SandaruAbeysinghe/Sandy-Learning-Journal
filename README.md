@@ -9,3 +9,5 @@ Day 02 (12/05/26) - Doing online papers on AWS SAA from Stephane Marek (Udemy). 
 Day 03 (13/05/26) - Engaging in Practical AI course material (Cardiff Uni). Changing the blog template colours for better readability.
 
 Day 04 (14/05/26) - Optimising blogsite and starting a new blog on "Apple and Accessibility"
+
+day 05 (15/05/26) - Revising for AWS SAA. Doing University course module research. Completing AI course material.
