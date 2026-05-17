@@ -13,3 +13,5 @@ Day 04 (14/05/26) - Optimising blogsite and starting a new blog on "Apple and Ac
 Day 05 (15/05/26) - Revising for AWS SAA. Doing University course module research. Completing AI course material. Doing "Odd or Even checker" Python exercise.
 
 Day 06 (16/05/26) - Doing "Character Input) Python Exercise.
+
+Day 07 (17/05/26) - SAA Notes revision.
