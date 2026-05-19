@@ -17,4 +17,5 @@ Day 06 (16/05/26) - Doing "Character Input) Python Exercise.
 Day 07 (17/05/26) - SAA Notes revision. "List less than five items" Python exercise.
 
 Day 08 (18/05/26) - Blog writing, github repository optimisation.
+
 Day 09 (19/05/26) - Blog writing, github repository optimisation.
