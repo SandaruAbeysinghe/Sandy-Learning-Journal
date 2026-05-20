@@ -19,3 +19,5 @@ Day 07 (17/05/26) - SAA Notes revision. "List less than five items" Python exerc
 Day 08 (18/05/26) - Blog writing, github repository optimisation.
 
 Day 09 (19/05/26) - Blog writing, github repository optimisation.
+
+Day 10 (20/05/26) - Python exercises, Adding "AdobeXD" project to github
