@@ -22,6 +22,8 @@ Day 09 (19/05/26) - Blog writing, github repository optimisation.
 
 Day 10 (20/05/26) - Python exercises, Adding "AdobeXD" project to github.
 
-Day 11 (21/05/26) - SAA questions, Blog research
+Day 11 (21/05/26) - SAA questions, Blog research.
 
-Day 12 (22/05/26) - AI course material
+Day 12 (22/05/26) - AI course material.
+
+Day 13 (23/05/26) - SAA questions made by ChatGPT for revision, YT videos.
