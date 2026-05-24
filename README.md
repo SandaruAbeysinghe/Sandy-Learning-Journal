@@ -27,3 +27,5 @@ Day 11 (21/05/26) - SAA questions, Blog research.
 Day 12 (22/05/26) - AI course material.
 
 Day 13 (23/05/26) - SAA questions made by ChatGPT for revision, YT videos.
+
+Day 14 (24/05/26) - ChatGPT questions for exam, Listening to Standford lectures on YT.
