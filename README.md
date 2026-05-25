@@ -31,3 +31,5 @@ Day 13 (23/05/26) - SAA questions made by ChatGPT for revision, YT videos.
 Day 14 (24/05/26) - ChatGPT questions for exam, Listening to Standford lectures on YT.
 
 Day 15 (25/05/26) - Questions & Answers for AWS SAA
+
+Day 16 (26/05/26) - Blog update, Python on W3Schools
