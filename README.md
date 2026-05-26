@@ -32,4 +32,4 @@ Day 14 (24/05/26) - ChatGPT questions for exam, Listening to Standford lectures 
 
 Day 15 (25/05/26) - Questions & Answers for AWS SAA
 
-Day 16 (26/05/26) - Blog update, Python on W3Schools
+Day 16 (26/05/26) - Blog update, Python on W3Schools, AWS Questions
