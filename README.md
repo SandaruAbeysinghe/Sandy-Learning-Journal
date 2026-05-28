@@ -35,3 +35,5 @@ Day 15 (25/05/26) - Questions & Answers for AWS SAA
 Day 16 (26/05/26) - Blog update, Python on W3Schools, AWS Questions.
 
 Day 17 (27/05/26) - Blog completion (AI and Morality of Usage).
+
+Day 18 (28/05/26) - CV updating, Blog post traffic analysis. Social media toolkit research (Volunteering for Cardiff Third Sector Council)
