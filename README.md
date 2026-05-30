@@ -40,4 +40,4 @@ Day 18 (28/05/26) - CV updating, Blog post traffic analysis. Social media toolki
 
 Day 19 (29/05/26) - AWS SAA Revision. 
 
-Day 20 (30/05/26) - ChatGPT discussions to improve my aws exam knowledge. 
+Day 20 (30/05/26) - ChatGPT discussions to improve my aws exam knowledge. AI course material on privacy of AI usage.
