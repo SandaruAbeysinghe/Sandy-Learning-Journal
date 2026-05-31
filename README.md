@@ -42,4 +42,4 @@ Day 19 (29/05/26) - AWS SAA Revision.
 
 Day 20 (30/05/26) - ChatGPT discussions to improve my aws exam knowledge. AI course material on privacy of AI usage.
 
-Day 21 (31/05/26) - 
+Day 21 (31/05/26) - Python learning, AWS SAA Preparation. CV optimisation.
