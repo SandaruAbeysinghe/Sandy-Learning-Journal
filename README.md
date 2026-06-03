@@ -47,3 +47,5 @@ Day 21 (31/05/26) - Python learning, AWS SAA Preparation. CV optimisation.
 Day 22 (01/06/26) - Social media content management (Volunteering).
 
 Day 23 (02/06/26) - Website issue troubleshooting using CSS.
+
+Day 24 (03/02/26) - Python project, AWS Question revision.
