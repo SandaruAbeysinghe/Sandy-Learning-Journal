@@ -50,4 +50,5 @@ Day 23 (02/06/26) - Website issue troubleshooting using CSS.
 
 Day 24 (03/02/26) - Python project, AWS Question revision.
 
-Day 25 (04/02/26) 
+Day 25 (04/02/26) - Blog update, AWs Questions, AI Course material.
+
