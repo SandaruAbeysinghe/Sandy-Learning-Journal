@@ -49,3 +49,5 @@ Day 22 (01/06/26) - Social media content management (Volunteering).
 Day 23 (02/06/26) - Website issue troubleshooting using CSS.
 
 Day 24 (03/02/26) - Python project, AWS Question revision.
+
+Day 25 (04/02/26) 
