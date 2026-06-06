@@ -52,3 +52,5 @@ Day 24 (03/02/26) - Python project, AWS Question revision.
 
 Day 25 (04/02/26) - Blog update, AWs Questions, AI Course material.
 
+Day 26 (05/02/26) - Youtube question review.
+
