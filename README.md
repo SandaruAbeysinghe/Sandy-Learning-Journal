@@ -54,3 +54,5 @@ Day 25 (04/02/26) - Blog update, AWs Questions, AI Course material.
 
 Day 26 (05/02/26) - Youtube question review.
 
+Day 27 (06/02/26) - AWs Question revision. CV optimisation.
+
