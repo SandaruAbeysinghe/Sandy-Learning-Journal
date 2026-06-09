@@ -59,3 +59,5 @@ Day 27 (06/02/26) - AWS Question revision. CV optimisation.
 Day 28 (07/02/26) - Blog updates, Question revision
 
 Day 29 (08/02/26) - Question review for AWS SAA.
+
+Day 30 (09/02/26) - TryHackMe Pre Security course.
