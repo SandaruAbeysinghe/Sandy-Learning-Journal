@@ -48,16 +48,18 @@ Day 22 (01/06/26) - Social media content management (Volunteering).
 
 Day 23 (02/06/26) - Website issue troubleshooting using CSS.
 
-Day 24 (03/02/26) - Python project, AWS Question revision.
+Day 24 (03/06/26) - Python project, AWS Question revision.
 
-Day 25 (04/02/26) - Blog update, AWs Questions, AI Course material.
+Day 25 (04/06/26) - Blog update, AWs Questions, AI Course material.
 
-Day 26 (05/02/26) - Youtube question revision.
+Day 26 (05/06/26) - Youtube question revision.
 
-Day 27 (06/02/26) - AWS Question revision. CV optimisation.
+Day 27 (06/06/26) - AWS Question revision. CV optimisation.
 
-Day 28 (07/02/26) - Blog updates, Question revision
+Day 28 (07/06/26) - Blog updates, Question revision
 
-Day 29 (08/02/26) - Question review for AWS SAA.
+Day 29 (08/06/26) - Question review for AWS SAA.
 
-Day 30 (09/02/26) - TryHackMe Pre Security course.
+Day 30 (09/06/26) - TryHackMe Pre Security course.
+
+Day 31 (10/06/26) - Google Skill Builder exercise
