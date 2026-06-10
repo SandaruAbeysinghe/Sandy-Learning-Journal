@@ -62,4 +62,4 @@ Day 29 (08/06/26) - Question review for AWS SAA.
 
 Day 30 (09/06/26) - TryHackMe Pre Security course.
 
-Day 31 (10/06/26) - Google Skill Builder exercise
+Day 31 (10/06/26) - Google Skill Builder exercise. Try Hack Me Path exercise.
